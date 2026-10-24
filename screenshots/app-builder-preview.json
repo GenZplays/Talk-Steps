@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Practice · Talk Steps",
+      "hasCanvas": false,
+      "bodyTextLen": 1329,
+      "bodyTextHash": "c9b72e51d3bd73ef0e6028e2d2106b95c6aa3b58f485dd1c16a3d2582fc405b5",
+      "bodyTextPrefix": "Skip to content Talk Steps Practice Teacher desk Practicing: Ale",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Practice · Talk Steps",
+      "hasCanvas": false,
+      "bodyTextLen": 1329,
+      "bodyTextHash": "c9b72e51d3bd73ef0e6028e2d2106b95c6aa3b58f485dd1c16a3d2582fc405b5",
+      "bodyTextPrefix": "Skip to content Talk Steps Practice Teacher desk Practicing: Ale",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
